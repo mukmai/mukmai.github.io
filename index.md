@@ -2,10 +2,11 @@
 
 ---
 
-### Category Name 1 
+### Game Projects
 
-[Project 1 Title](/sample_page)
+[Good Dog](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MVM3E16AhpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -31,5 +32,3 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
