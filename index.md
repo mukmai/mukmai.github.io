@@ -34,8 +34,8 @@ Worked on VR application that visualized math for education and research. Built 
 <div>
   <ul style="margin: 10px ; padding: 10px ; text-align: right;">
     <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">a</li>
-    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">a</li>
-    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">a</li>
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">b</li>
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">c</li>
   </ul>
 </div>
 
