@@ -33,10 +33,31 @@ Worked on VR application that visualized math for education and research. Built 
 
 <div>
   <ul style="margin: 10px ; padding: 10px ; text-align: right;">
-    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">a</li>
-    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">b</li>
-    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">c</li>
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">C#</li>
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">Unity3D</li>
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">SourceTree</li>
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">Oculus Rift</li>
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">Github</li>
   </ul>
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n1lMYZbh9mg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+#### Campus Mobile - Project Manager Intern (September 2018 - December 2018)
+
+Implemented a notification feature for available tutor hours on iOS and Androiid. Leaded agile meetings by delegating tasks amongst team members and coordinating between the client and team. Designing the architecture of data interaction between different components in the app.
+
+<div>
+  <ul style="margin: 10px ; padding: 10px ; text-align: right;">
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">React Native</li>
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">Node.js</li>
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">Firebase</li>
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">Github</li>
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">JSON</li>
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">REST</li>
+  </ul>
+</div>
+
+---
