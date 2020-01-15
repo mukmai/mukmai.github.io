@@ -12,3 +12,5 @@ Dogs can pee on the floor that will make the human slip on it and they can sprin
 
 ### More about the game
 This game is created by a team of 6 students using C++ and OpenGL for graphics. My part in this project is creating the game engine (game loop and physics), game logic, modeling, animations, map design and game graphics.
+
+[Work progress log of the game](https://cse125.ucsd.edu/2019/cse125g2/)
