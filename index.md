@@ -4,16 +4,15 @@
 
 ### Game Projects
 
-[Good Dog](/sample_page)
+[Good Dog](/good_dog)
 <img src="images/good dog cover.PNG?raw=true"/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MVM3E16AhpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project Bone](/project_bone)
+<img src="images/projectbone cover.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Rebirth](/rebirth)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
