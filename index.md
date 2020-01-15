@@ -1,20 +1,3 @@
-<style>
-ul .tag-list{
-  margin: 10px;
-  padding: 10px;
-  text-align: right;
-}
-
-ul .tag-list .tag {
-  padding: 4px;
-  background-color: grey;
-  color: white;
-  display: inline-block;
-  border-radius: 5px;
-  margin: 1px;
-}
-</style>
-
 ## Portfolio
 
 ---
@@ -49,10 +32,10 @@ Please hire me. lol
 Worked on VR application that visualized math for education and research. Built a feature that generates interactive 3D graphs using virtually held graphing calculator in VR.
 
 <div>
-  <ul class="tag-list">
-    <li class="tag">a</li>
-    <li class="tag">a</li>
-    <li class="tag">a</li>
+  <ul style="margin: 10px ; padding: 10px ; text-align: right;">
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">a</li>
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">a</li>
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">a</li>
   </ul>
 </div>
 
