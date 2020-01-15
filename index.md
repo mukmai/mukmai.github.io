@@ -25,3 +25,18 @@ Please hire me. lol
 
 ---
 
+### Work
+
+#### Nanome - Software Engineering Intern (January 2018 - June 2018)
+
+Worked on VR application that visualized math for education and research. Built a feature that generates interactive 3D graphs using virtually held graphing calculator in VR.
+
+<div>
+  <ul class="tag-list">
+    <li class="tag">a</li>
+    <li class="tag">a</li>
+    <li class="tag">a</li>
+  </ul>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n1lMYZbh9mg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
