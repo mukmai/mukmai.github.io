@@ -1,3 +1,20 @@
+<style>
+ul .tag-list{
+  margin: 10px;
+  padding: 10px;
+  text-align: right;
+}
+
+ul .tag-list .tag {
+  padding: 4px;
+  background-color: grey;
+  color: white;
+  display: inline-block;
+  border-radius: 5px;
+  margin: 1px;
+}
+</style>
+
 ## Portfolio
 
 ---
