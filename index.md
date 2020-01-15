@@ -5,7 +5,7 @@
 ### Game Projects
 
 [Good Dog](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/good dog cover.PNG?raw=true"/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MVM3E16AhpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
