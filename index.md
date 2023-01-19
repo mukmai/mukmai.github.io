@@ -79,3 +79,18 @@ Working on mobile game for iOS and Android. Mainly focused on game logic, level/
 </div>
 
 <img src="images/everyheroCover.jpg?raw=true"/>
+
+---
+
+#### Feeling Game Company - Game Producer (October 2022 - Now)
+
+Working on PC game. Managing and planning out tasks for the team, also worked on development tools and testing.
+
+<div>
+  <ul style="margin: 10px ; padding: 10px ; text-align: right;">
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">Unity</li>
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">C#</li>
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">Github</li>
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">JSON</li>
+  </ul>
+</div>
