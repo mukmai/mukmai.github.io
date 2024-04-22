@@ -4,7 +4,7 @@
 
 ### About myself
 
-My name is Cheuk Him Deacon Kum and I graduated from UC San Diego with a bachelor’s degree in Computer Science. I mainly focus on game developing related field such as computer graphics and game engine and of course game design. I chose this field because I have been a gamer for a very long time and I would also like to create game that people will also enjoy playing it. I had a couple game related projects in my school years and some of those led to an internship in Nanome, a company that use Unity3D and Oculus Rift to represent 3d graphs and chemical bonds in VR. And now I am working under Feeling Game Company as a Game Developer and Producer.
+My name is Cheuk Him Deacon Kum and I graduated from UC San Diego with a bachelor’s degree in Computer Science. I mainly focus on game developing related field such as computer graphics and game engine and of course game design. I chose this field because I have been a gamer for a very long time and I would also like to create game that people will also enjoy playing it. I had a couple game related projects in my school years and some of those led to an internship in Nanome, a company that use Unity3D and Oculus Rift to represent 3d graphs and chemical bonds in VR. And now I am working under Feeling Game Company as a Game Developer.
 
 Willing to try out and learn more new things, feel free to contact me if there is anything interesting to work on.
 
@@ -24,6 +24,11 @@ Willing to try out and learn more new things, feel free to contact me if there i
 <img src="images/rebirth cover.PNG?raw=true"/>
 
 ---
+[Lurking In The Soil](/lurking_in_the_soil)
+<img src="images/lurking in the soil cover.png?raw=true"/>
+
+---
+
 
 ### Work
 
@@ -64,8 +69,10 @@ Implemented a notification feature for available tutor hours on iOS and Android.
 
 ---
 
-#### Feeling Game Company - Game Developer (March 2020 - Now)
+#### Feeling Game Company - Game Developer (March 2020 - May 2024)
 
+
+##### Everyhero
 Working on mobile game for iOS and Android. Mainly focused on game logic, level/enemy design, graphics, and VFX, also took part in UI and backend.
 
 <div>
@@ -80,17 +87,15 @@ Working on mobile game for iOS and Android. Mainly focused on game logic, level/
 
 <img src="images/everyheroCover.jpg?raw=true"/>
 
----
-
-#### Feeling Game Company - Game Producer (October 2022 - Now)
-
-Working on PC game. Managing and planning out tasks for the team, also worked on development tools and testing.
+##### Other Tasks
+Worked on AI generated images, AI generated stories, AI generated videos using various tools.
+Worked on different shaders in Unity.
 
 <div>
   <ul style="margin: 10px ; padding: 10px ; text-align: right;">
-    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">Unity</li>
-    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">C#</li>
-    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">Github</li>
-    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">JSON</li>
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">Stable Diffusion</li>
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">ChatGPT</li>
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">Runway</li>
+    <li style="padding: 4px; background-color: grey; color: white; display: inline-block; border-radius: 5px; margin: 1px">Shader Graph</li>
   </ul>
 </div>
