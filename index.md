@@ -25,7 +25,7 @@ Willing to try out and learn more new things, feel free to contact me if there i
 
 ---
 [Lurking In The Soil](/lurking_in_the_soil)
-<img src="images/lurking in the soil cover.png?raw=true"/>
+<img src="images/lurking in the soil cover.jpg?raw=true"/>
 
 ---
 
