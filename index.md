@@ -28,7 +28,8 @@ Willing to try out and learn more new things, feel free to contact me if there i
 <img src="images/lurking in the soil cover.jpg?raw=true"/>
 
 ---
-
+[Board Bouncer](/board_bouncer)
+<img src="images/board bouncer cover.jpg?raw=true"/>
 
 ### Work
 
